@@ -1,0 +1,4 @@
+3-A)--A reverse search allows you to go back through your history, and search for a string within your executed commands. You can think of this as similar to history | grep cat , but much more interactive and much faster.
+3-B)--To show hidden files you must use the -a option, which commands ls to list "all" files and folders (including hidden ones). Navigate to your home directory with the cd command and do a listing of all files using ls.
+3-C)--Yes, I am quite familiar with linux as an operating system including ubuntu and cent-os 
+3-D)--NO, i haven't have used till date . 
